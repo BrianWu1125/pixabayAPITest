@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Phototest</string>
+    <string name="main_tab_grid">Grid</string>
+    <string name="main_tab_list">List</string>
+    <string name="main_search_title">Search images</string>
+    <string name="main_edit_hint">Enter keyword</string>
+    <string name="main_btn_search">Search</string>
+    <string name="main_searching">Searching..</string>
+    <string name="main_search_no_data">No data</string>
+    <string name="main_search_null">Try again later..</string>
+    <string name="txt_user">User : </string>
+
+</resources>
